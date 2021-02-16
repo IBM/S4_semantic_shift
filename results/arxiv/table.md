@@ -1,0 +1,27 @@
+|Global|Noise-Aware|S4-A|Common| |
+|------|-----------|----|------|-|
+|agar||admission|ass|sickle|
+|ancestor||charged|biosystems|thermo|
+|blotting||consent|blot|throughput|
+|cant||creative|bootstrap|transmission|
+|chimerism||decade|civet|trial|
+|convalescent||defense|dilution|united|
+|copyright||depends|distancing||
+|dos||effect|docking||
+|expression||granted|funder||
+|fdr||load|germinal||
+|gift||loved|holder||
+|immunity||odds|incubated||
+|killer||pressure|kindly||
+|min||role|licence||
+|mouse||sign|license||
+|peep||storm|lymph||
+|tomography||suspicion|moi||
+|turnaround||washed|nervous||
+|york||weight|nucleic||
+||||otitis||
+||||perpetuity||
+||||play||
+||||primer||
+||||reproduction||
+||||shedding||
